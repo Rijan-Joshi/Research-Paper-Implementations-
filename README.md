@@ -4,17 +4,17 @@ Welcome to my collection of research paper implementations! This repository cont
 
 ## 📊 Implementation Statistics
 
-| Category | Count | Percentage |
-|----------|-------|------------|
-| **Computer Vision** | 0 | 0% |
-| **Natural Language Processing** | 0 | 0% |
-| **Reinforcement Learning** | 0 | 0% |
-| **Generative Models** | 0 | 0% |
-| **Graph Neural Networks** | 0 | 0% |
-| **Time Series Analysis** | 0 | 0% |
-| **Optimization & Training** | 0 | 0% |
-| **Other/Miscellaneous** | 0 | 0% |
-| **TOTAL IMPLEMENTATIONS** | **0** | **100%** |
+| Category | Implemented | To Implement | Total Papers |
+|----------|-------------|--------------|--------------|
+| **Computer Vision** | 0 | 0 | 0 |
+| **Natural Language Processing** | 0 | 0 | 0 |
+| **Reinforcement Learning** | 0 | 0 | 0 |
+| **Generative Models** | 0 | 0 | 0 |
+| **Graph Neural Networks** | 0 | 0 | 0 |
+| **Time Series Analysis** | 0 | 0 | 0 |
+| **Optimization & Training** | 0 | 0 | 0 |
+| **Other/Miscellaneous** | 0 | 0 | 0 |
+| **TOTAL** | **0** | **0** | **0** |
 
 ---
 
@@ -70,6 +70,58 @@ Welcome to my collection of research paper implementations! This repository cont
 
 ---
 
+## 📋 Papers To Implement (Research Collection)
+
+### 🖼️ Computer Vision (0 papers)
+
+| # | Paper Title | Authors | Year | Conference/Journal | Paper Link | Priority | Notes |
+|---|-------------|---------|------|-------------------|------------|----------|-------|
+| - | *No papers collected yet* | - | - | - | - | - | - |
+
+### 📝 Natural Language Processing (0 papers)
+
+| # | Paper Title | Authors | Year | Conference/Journal | Paper Link | Priority | Notes |
+|---|-------------|---------|------|-------------------|------------|----------|-------|
+| - | *No papers collected yet* | - | - | - | - | - | - |
+
+### 🎮 Reinforcement Learning (0 papers)
+
+| # | Paper Title | Authors | Year | Conference/Journal | Paper Link | Priority | Notes |
+|---|-------------|---------|------|-------------------|------------|----------|-------|
+| - | *No papers collected yet* | - | - | - | - | - | - |
+
+### 🎨 Generative Models (0 papers)
+
+| # | Paper Title | Authors | Year | Conference/Journal | Paper Link | Priority | Notes |
+|---|-------------|---------|------|-------------------|------------|----------|-------|
+| - | *No papers collected yet* | - | - | - | - | - | - |
+
+### 🕸️ Graph Neural Networks (0 papers)
+
+| # | Paper Title | Authors | Year | Conference/Journal | Paper Link | Priority | Notes |
+|---|-------------|---------|------|-------------------|------------|----------|-------|
+| - | *No papers collected yet* | - | - | - | - | - | - |
+
+### 📈 Time Series Analysis (0 papers)
+
+| # | Paper Title | Authors | Year | Conference/Journal | Paper Link | Priority | Notes |
+|---|-------------|---------|------|-------------------|------------|----------|-------|
+| - | *No papers collected yet* | - | - | - | - | - | - |
+
+### ⚙️ Optimization & Training (0 papers)
+
+| # | Paper Title | Authors | Year | Conference/Journal | Paper Link | Priority | Notes |
+|---|-------------|---------|------|-------------------|------------|----------|-------|
+| - | *No papers collected yet* | - | - | - | - | - | - |
+
+### 🔧 Other/Miscellaneous (0 papers)
+
+| # | Paper Title | Authors | Year | Conference/Journal | Paper Link | Priority | Notes |
+|---|-------------|---------|------|-------------------|------------|----------|-------|
+| - | *No papers collected yet* | - | - | - | - | - | - |
+
+---
+
 ## 📁 Repository Structure
 
 ```
@@ -103,10 +155,16 @@ Each paper implementation includes:
 
 ## 🚀 Status Legend
 
+**For Implemented Papers:**
 - ✅ **Complete**: Full implementation with results
 - 🚧 **In Progress**: Currently working on implementation
-- 📝 **Planned**: Added to implementation queue
 - ❌ **Paused**: Implementation temporarily on hold
+
+**For Papers To Implement:**
+- 🔥 **High Priority**: Want to implement soon
+- ⭐ **Medium Priority**: Interesting, will implement eventually
+- 📚 **Low Priority**: Good to have, implement when time permits
+- 💡 **Research**: Just keeping for reference/inspiration
 
 ## 🤝 Contributing
 
